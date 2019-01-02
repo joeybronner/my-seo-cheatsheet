@@ -7,7 +7,7 @@ Liste des choses à prendre en compte pour avoir un bon référencement naturel 
 - Avoir une architecture sous forme d'arbre pour les pages de son site (sitemap en xml)
 - Ajouter le plan et les pages à ne pas indexer dans robot.txt à la racine du site
     + Tester ici : sitemaps.org
-- AVoir des ancres de lien : liens entre les pages du site
+- Avoir des ancres de lien : liens entre les pages du site
 - Utiliser des mots dans les URLs (pas des IDs générés)
     + Idéalement des mots utilisés dans les recherches des utilisateurs
     + Attention pas plus de 115 caractères pour l'URL complète
@@ -47,4 +47,7 @@ Une fois que toutes ces choses là ont été respectées/appliquées, voilà les
 - [Intégrer son site la Google Search Console](https://support.google.com/webmasters/answer/6332964?hl=fr&ref_topic=4564315)
 - [Ajouter une propriété à son site Web pour prouver que le site vous appartient](https://support.google.com/webmasters/answer/34592?hl=fr&ref_topic=4564315)
     + [Puis valider cette propriété](https://support.google.com/webmasters/answer/35179?hl=fr&ref_topic=4564315)
-    + 
+
+___
+
+Joey BRONNER
