@@ -1,4 +1,4 @@
-# My SEO Cheasheet 📄
+# My SEO Cheatsheet 📄
 
 Liste des choses à prendre en compte pour avoir un bon référencement naturel par Google. 
 
